@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julian2324
 - 👀 I’m interested in coding, dance, and music
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on many different projects
 - 📫 How to reach me is by email at julian.gold.crenshaw@gmail.com
 - 😄 Pronouns: he/him
